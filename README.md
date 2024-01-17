@@ -23,5 +23,6 @@ To run the program and test the sorting algorithms:
 Clone this repository to your local machine.
 Compile the program, including the provided CSV parser (CSVparser.cpp).
 Run the compiled executable and interact with the menu, input "1" to load bids first. 
-Change the path to your correct path. 
+Change the path to your correct path.
+
 cd "/Users/fisalikhmayes/Downloads/CS 300 Vector Sorting Assignment Student Files/" && g++ VectorSorting.cpp CSVparser.cpp -o VectorSorting && "/Users/fisalikhmayes/Downloads/CS 300 Vector Sorting Assignment Student Files/"VectorSorting
